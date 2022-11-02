@@ -84,4 +84,4 @@ with st.expander('Education'):
     ### 
     ##### IT Skills:
     - Well versed with Python, SQL, Microsoft Office, Power BI, R, SPSS, Oracle, MicroStrategy and other useful Tools & Internet Applications
-    ''')    
+    ''')   
