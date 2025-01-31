@@ -14,7 +14,7 @@ st.write('''
 image = Image.open('dp.jpg')
 st.image(image, width=150)
 
-st.markdown('## Summary', unsafe_allow_html=True)
+st.markdown("## Summary', unsafe_allow_html=True)
 st.info('''
 A sincere individual with strong values working skilled in problem solving, looking for an opportunity to work in an interactive workplace where the aim is to achieve long term growth of the company through customer satisfaction and improved performance standards.
 
