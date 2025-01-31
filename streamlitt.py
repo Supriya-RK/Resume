@@ -130,9 +130,9 @@ with st.expander('Work Experience'):
     - Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
     ''')
     
-    txt('## Project 2 - RUSHMORE, Python Developer',
+    txt('### Project 2 - RUSHMORE, Python Developer',
     '')
-    txt('### key Technologies, Python, SQL Alchemy, Streamlit',
+    txt('#### key Technologies, Python, SQL Alchemy, Streamlit',
     '')
     st.markdown('''
     - Worked on writing scripts to extract multiple sql queries and categorizing and formatting it in different columns of excel file wrote Python logic for the sql queries, and created UI with SQL connection
@@ -142,11 +142,11 @@ with st.expander('Work Experience'):
     - Created functionality to create /edit logics in Database from the UI based on type and deal name. Worked on script to combine files based of input keep in a folder and split different tabs of excel in separate files.
     ''')
     
-    txt('## Project 3 - Nationstar Morigage.LLC, Acquisition & Risk Reporting Analyst',
+    txt('### Project 3 - Nationstar Morigage.LLC, Acquisition & Risk Reporting Analyst',
     '')
-    txt('### key Technologies, SSIS, Excel, SQL, VBA',
+    txt('#### key Technologies, SSIS, Excel, SQL, VBA',
     '')
-    txt('#### Automation Analyst :  ',
+    txt('##### Automation Analyst :  ',
     '')
     st.markdown('''
     - It includes receiving data from prior servicers then conversion of the received data into readable format upload it into the database and according to the mapping provided generate reports/templates using technologies such as Monarch, SQL, SSIS VBA macro, EXCEL
@@ -155,7 +155,7 @@ with st.expander('Work Experience'):
     - Have basic knowledge of SSIS due to short duration interaction.
     ''')
     
-    txt('#### Risk Reporting Analyst :  ',
+    txt('##### Risk Reporting Analyst :  ',
     '')
     st.markdown('''
     - Developed dashboards in Excel and Power Bi tor better view of the process to senior management provided functionalities drill down to record level for business use as well.
@@ -166,9 +166,9 @@ with st.expander('Work Experience'):
     - Worked on other adhoc analysis requirement from Senior Management
     ''')
     
-    txt('## Project 4 - WM Morrisonsr, Technology Analyst',
+    txt('### Project 4 - WM Morrisonsr, Technology Analyst',
     '')
-    txt('### Key Technologies, [SQL, Excel, Client Application',
+    txt('#### Key Technologies, [SQL, Excel, Client Application',
     '')
     st.markdown('''
     - Carrying out disaster recovery activities
