@@ -110,8 +110,8 @@ with st.expander('Education'):
 st.markdown('''
 ## Work Experience
 ''')
-with st.expander('Work Experience'):
-    txt('# Tata Consultancy Services                                                 (Jan 2017- Till Date)',
+with st.expander('Work Experience')
+txt('# Tata Consultancy Services                                                 (Jan 2017- Till Date)',
   '')
     txt('## Project 1 - CITI BANK, Automation ',
   '')
