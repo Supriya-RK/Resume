@@ -113,11 +113,11 @@ st.markdown('''
 ''')
 with st.expander('Work Experience'):
     
-    txt('# Tata Consultancy Services                                                 (Jan 2017- Till Date)',
+    txt('## Tata Consultancy Services                                                 (Jan 2017- Till Date)',
     '')
-    txt('## Project 1 - CITI BANK, Automation ',
+    txt('### Project 1 - CITI BANK, Automation ',
     '')
-    txt('### key Technologies, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
+    txt('#### key Technologies, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
     '')
     st.markdown('''
     - Built User Interface, background code for functionality, and successfully deployed.
