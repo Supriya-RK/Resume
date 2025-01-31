@@ -115,69 +115,69 @@ with st.expander('Work Experience'):
   '')
     txt('## Project 1 - CITI BANK, Automation ',
   '')
-  txt('### key Technologies, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
-  '')
-  st.markdown('''
-  - Built User Interface, background code for functionality, and successfully deployed.
-  - Automated and deployed Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate.
-  - Created dashboard to show recon of source to destination table ingestion data
-  - Created user interface and automated process of creating data catalog for each table
-  - Implemented and automated data quality checks for table ingestion at source side to avoid downstream impact
-  - Analyzed the various production issues, done RCA and took various steps to avoid them
-  - Worked on regulatory reporting projects for multiple countries
-  - Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
-  ''')
-
-  txt('## Project 2 - RUSHMORE, Python Developer',
-  '')
-  txt('### key Technologies, Python, SQL Alchemy, Streamlit',
-  '')
-  st.markdown('''
-  - Worked on writing scripts to extract multiple sql queries and categorizing and formatting it in different columns of excel file wrote Python logic for the sql queries, and created UI with SQL connection
-  - Created UI with tabs for separate categories which in turn consisted of multiple functionalities
-  - Created feature to create, upload tables with data from single and multiple files and delete records, drop table(s) single/multiple and create backup of selected table based on type of deals.
-  - Created feature to create combined data file from multiple tables and run the python logics which yielded output based on the selected template and format the data which could further downloaded with the download buttons required.
-  - Created functionality to create /edit logics in Database from the UI based on type and deal name. Worked on script to combine files based of input keep in a folder and split different tabs of excel in separate files.
-  ''')
-
-  txt('## Project 3 - Nationstar Morigage.LLC, Acquisition & Risk Reporting Analyst',
-  '')
-  txt('### key Technologies, SSIS, Excel, SQL, VBA',
-  '')
-  txt('#### Automation Analyst :  ',
-  '')
-  st.markdown('''
-  - It includes receiving data from prior servicers then conversion of the received data into readable format upload it into the database and according to the mapping provided generate reports/templates using technologies such as Monarch, SQL, SSIS VBA macro, EXCEL
-  - Manipulated the queries for the required output Have created VBA macros as we ll for reporting purpose and updated the VBA codes when there were any changes advised
-  - Have created macro to select the file from any location for copying. purging, formatting based on conditions and creating new files and storing at desired locations.
-  - Have basic knowledge of SSIS due to short duration interaction.
-  ''')
-
-  txt('#### Risk Reporting Analyst :  ',
-  '')
-  st.markdown('''
-  - Developed dashboards in Excel and Power Bi tor better view of the process to senior management provided functionalities drill down to record level for business use as well.
-  - Automated and- optimized the process by eliminating the repeated manual process by using SQL, SSIS packages,Excel, VBA Macros.
-  - Worked on Enterprise risk Dashboard and compliance also Own Weekly. Monthly reports of the Company Portfolio performance which are sent to top management.
-  - Worked on other adhoc analysis requirement from Senior Management
-  - Worked on Enterprise risk Dashboard and compliance also Own Weekly. Monthly reports of the Company Portfolio performance which are sent to top management.
-  - Worked on other adhoc analysis requirement from Senior Management
-  ''')
-
-  txt('## Project 4 - WM Morrisonsr, Technology Analyst',
-  '')
-  txt('### Key Technologies, [SQL, Excel, Client Application',
-  '')
-  st.markdown('''
-  - Carrying out disaster recovery activities
-  - Checking issues reported by Clients on backend (5Ol Server Management Studio).
-  - Troubleshooting for any minor, or critical incident that is observed on the application.
-  - Demonstrating abilities in Fast Issue Resolution, Solving Tickets and Technical Support.
-  - Handling escalation issues at LI, L2 level end inclusive of attending calls and reporting to duty managers onsite /offshore.
-  - Having excellent inter-personal skill with ability to work as part of team as well as independently.
-  - Interacting with Clients, preparing multiple documents for clients' understanding of applications.
-  - Maintaining daily, weekly reports for reviewing overall performance in terms of SLAS.
-  ''')
+      txt('### key Technologies, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
+      '')
+      st.markdown('''
+      - Built User Interface, background code for functionality, and successfully deployed.
+      - Automated and deployed Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate.
+      - Created dashboard to show recon of source to destination table ingestion data
+      - Created user interface and automated process of creating data catalog for each table
+      - Implemented and automated data quality checks for table ingestion at source side to avoid downstream impact
+      - Analyzed the various production issues, done RCA and took various steps to avoid them
+      - Worked on regulatory reporting projects for multiple countries
+      - Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
+      ''')
+    
+      txt('## Project 2 - RUSHMORE, Python Developer',
+      '')
+      txt('### key Technologies, Python, SQL Alchemy, Streamlit',
+      '')
+      st.markdown('''
+      - Worked on writing scripts to extract multiple sql queries and categorizing and formatting it in different columns of excel file wrote Python logic for the sql queries, and created UI with SQL connection
+      - Created UI with tabs for separate categories which in turn consisted of multiple functionalities
+      - Created feature to create, upload tables with data from single and multiple files and delete records, drop table(s) single/multiple and create backup of selected table based on type of deals.
+      - Created feature to create combined data file from multiple tables and run the python logics which yielded output based on the selected template and format the data which could further downloaded with the download buttons required.
+      - Created functionality to create /edit logics in Database from the UI based on type and deal name. Worked on script to combine files based of input keep in a folder and split different tabs of excel in separate files.
+      ''')
+    
+      txt('## Project 3 - Nationstar Morigage.LLC, Acquisition & Risk Reporting Analyst',
+      '')
+      txt('### key Technologies, SSIS, Excel, SQL, VBA',
+      '')
+      txt('#### Automation Analyst :  ',
+      '')
+      st.markdown('''
+      - It includes receiving data from prior servicers then conversion of the received data into readable format upload it into the database and according to the mapping provided generate reports/templates using technologies such as Monarch, SQL, SSIS VBA macro, EXCEL
+      - Manipulated the queries for the required output Have created VBA macros as we ll for reporting purpose and updated the VBA codes when there were any changes advised
+      - Have created macro to select the file from any location for copying. purging, formatting based on conditions and creating new files and storing at desired locations.
+      - Have basic knowledge of SSIS due to short duration interaction.
+      ''')
+    
+      txt('#### Risk Reporting Analyst :  ',
+      '')
+      st.markdown('''
+      - Developed dashboards in Excel and Power Bi tor better view of the process to senior management provided functionalities drill down to record level for business use as well.
+      - Automated and- optimized the process by eliminating the repeated manual process by using SQL, SSIS packages,Excel, VBA Macros.
+      - Worked on Enterprise risk Dashboard and compliance also Own Weekly. Monthly reports of the Company Portfolio performance which are sent to top management.
+      - Worked on other adhoc analysis requirement from Senior Management
+      - Worked on Enterprise risk Dashboard and compliance also Own Weekly. Monthly reports of the Company Portfolio performance which are sent to top management.
+      - Worked on other adhoc analysis requirement from Senior Management
+      ''')
+    
+      txt('## Project 4 - WM Morrisonsr, Technology Analyst',
+      '')
+      txt('### Key Technologies, [SQL, Excel, Client Application',
+      '')
+      st.markdown('''
+      - Carrying out disaster recovery activities
+      - Checking issues reported by Clients on backend (5Ol Server Management Studio).
+      - Troubleshooting for any minor, or critical incident that is observed on the application.
+      - Demonstrating abilities in Fast Issue Resolution, Solving Tickets and Technical Support.
+      - Handling escalation issues at LI, L2 level end inclusive of attending calls and reporting to duty managers onsite /offshore.
+      - Having excellent inter-personal skill with ability to work as part of team as well as independently.
+      - Interacting with Clients, preparing multiple documents for clients' understanding of applications.
+      - Maintaining daily, weekly reports for reviewing overall performance in terms of SLAS.
+      ''')
 
 #####################
 st.markdown('''
