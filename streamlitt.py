@@ -168,7 +168,7 @@ with st.expander('Work Experience'):
     
     txt('### Project 4 - WM Morrisonsr, Technology Analyst',
     '')
-    txt('#### Key Technologies, [SQL, Excel, Client Application',
+    txt('#### Key Technologies, SQL, Excel, Client Application',
     '')
     st.markdown('''
     - Carrying out disaster recovery activities
