@@ -24,7 +24,7 @@ A sincere individual with strong values working skilled in problem solving, look
 # Navigation
 
 st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
-st.write("### Tata Cosultancy Services")
+
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
   <a class="navbar-brand" href="https://youtube.com/dataprofessor" target="_blank">Supriya Pandey</a>
@@ -111,9 +111,9 @@ st.markdown('''
 ## Work Experience
 ''')
 with st.expander('Work Experience'):
-  txt('**Project 1 - CITI BANK**, Automation ',
+  txt('## Project 1 - CITI BANK**, Automation ',
   '')
-  txt('**key Technologies**, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
+  txt('### key Technologies**, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
   '')
   st.markdown('''
   - Built User Interface, background code for functionality, and successfully deployed.
@@ -126,9 +126,9 @@ with st.expander('Work Experience'):
   - Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
   ''')
 
-  txt('**Project 2 - RUSHMORE**, Python Developer',
+  txt('## Project 2 - RUSHMORE**, Python Developer',
   '')
-  txt('**key Technologies**, Python, SQL Alchemy, Streamlit',
+  txt('### key Technologies**, Python, SQL Alchemy, Streamlit',
   '')
   st.markdown('''
   - Worked on writing scripts to extract multiple sql queries and categorizing and formatting it in different columns of excel file wrote Python logic for the sql queries, and created UI with SQL connection
