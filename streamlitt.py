@@ -97,7 +97,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Project 1 - CITI BANK **, Automation ',
+txt('**Project 1 - CITI BANK**, Automation ',
 '')
 txt('**key Technologies**, Python,Pyspark, Bigdata(Hadoop), Autosys, Lightspeed',
 '')
