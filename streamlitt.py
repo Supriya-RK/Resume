@@ -146,7 +146,7 @@ with st.expander('Work Experience'):
     '')
     txt('#### key Technologies, SSIS, Excel, SQL, VBA',
     '')
-    txt('##### Automation Analyst :  ',
+    txt('#### Automation Analyst :  ',
     '')
     st.markdown('''
     - It includes receiving data from prior servicers then conversion of the received data into readable format upload it into the database and according to the mapping provided generate reports/templates using technologies such as Monarch, SQL, SSIS VBA macro, EXCEL
@@ -155,7 +155,7 @@ with st.expander('Work Experience'):
     - Have basic knowledge of SSIS due to short duration interaction.
     ''')
     
-    txt('##### Risk Reporting Analyst :  ',
+    txt('#### Risk Reporting Analyst :  ',
     '')
     st.markdown('''
     - Developed dashboards in Excel and Power Bi tor better view of the process to senior management provided functionalities drill down to record level for business use as well.
