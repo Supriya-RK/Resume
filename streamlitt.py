@@ -59,10 +59,10 @@ st.markdown("""
 st.markdown('## Contact', unsafe_allow_html=True)
 with st.expander('Contact'):
     cols = st.columns(2,4)
-  cols[0].write('''
+  cols[0].write(''''
   **Phone - +91 8697645363** 
   ''')
-  cols[1].write('''
+  cols[1].write(''''
   **Mail - werock.pandey@gmail.com** 
   ''')
 
